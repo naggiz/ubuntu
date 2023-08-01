@@ -16,6 +16,7 @@ sudo apt-get meshlab freecad blender inkscape openscad slic3r
 
 # Software to be added manually from Ubuntu Software
 # OnlyOffice
+# Notesnook
 
 # Foxit pdf reader
 # https://www.foxit.com/downloads/#Foxit-Reader/
