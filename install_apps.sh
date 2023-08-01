@@ -14,8 +14,11 @@ sudo -v && wget -nv -O- https://download.calibre-ebook.com/linux-installer.sh | 
 # 3D-print software
 sudo apt-get meshlab freecad blender inkscape openscad slic3r
 
-# Software to be added manually
+# Software to be added manually from Ubuntu Software
 # OnlyOffice
+
+# Foxit pdf reader
+# https://www.foxit.com/downloads/#Foxit-Reader/
 
 # Restart nautilus (req. to activate elementary):
 nautilus -q
